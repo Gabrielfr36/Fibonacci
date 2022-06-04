@@ -18,7 +18,7 @@ public class FibonacciSequence {
 
 
         System.out.println("FibonacciSequence:");
-        System.out.println("Enter the index of Fibonacci Sequence");
+        System.out.println("Please Enter the index of Fibonacci Sequence");
 
         Scanner userInput = new Scanner(System.in);
         int n = userInput.nextInt();
